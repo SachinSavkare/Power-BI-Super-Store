@@ -9,7 +9,7 @@ Welcome to the **Superstore Analysis Project**, designed to uncover actionable i
 ## 📥 **How to Access & Explore**
 
 ### Steps for Recruiters:
-1. **Access the Project**: [Download File from GitHub](https://app.powerbi.com/view?r=eyJrIjoiZTM0NDMwZjEtN2NiZS00MTVmLWI1MzAtODZhNWM2YTI5M2I0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
+1. [**Access the Live Project HERE**](https://app.powerbi.com/view?r=eyJrIjoiZTM0NDMwZjEtN2NiZS00MTVmLWI1MzAtODZhNWM2YTI5M2I0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 2. **Explore Interactivity**: Open in Power BI Desktop for hands-on review.
 3. **Visual Tour**: Preview dynamic charts and slicers for detailed analysis.
    
@@ -36,6 +36,8 @@ To analyze sales and profitability data for Superstore operations (2013–2015),
 - **Profit by Region**: Performance analysis across Central, East, South, and West.
 - **Profit by Category & Department**: Trends within Furniture, Office Supplies, and Technology.
 - **Overall Profit Dashboard**: Comprehensive view for stakeholders.
+
+![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Data%20Modelling.JPG)
 
 ---
 
