@@ -37,7 +37,7 @@ To analyze sales and profitability data for Superstore operations (2013–2015),
 - **Profit by Category & Department**: Trends within Furniture, Office Supplies, and Technology.
 - **Overall Profit Dashboard**: Comprehensive view for stakeholders.
 
-![Alt text](https://github.com/SachinSavkare/Power-BI-Business-Insights-360/blob/main/Data%20Modelling.JPG)
+![Alt text](https://github.com/SachinSavkare/Power-BI-Super-Store/blob/main/Super%20Store.JPG)
 
 ---
 
